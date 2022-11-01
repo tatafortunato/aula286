@@ -1,11 +1,15 @@
- body p { 
-    text-align: center
+ body  { 
+    background: #11d3e05b
+}
+p{
+    text-align:center;
 }
 h1{
    text-align: center;
-   background: #98e7ff
 }
-   em strong{
+  
+
+em strong{
    color:red;
     }
     
